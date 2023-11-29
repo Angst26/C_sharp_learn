@@ -1,3 +1,0 @@
-﻿D:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
-  произведение двух векторов.cpp
-  ConsoleApplication1.vcxproj -> D:\projects\ConsoleApplication1\ConsoleApplication1\р\ConsoleApplication1.exe
